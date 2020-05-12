@@ -5,30 +5,19 @@
 ---
 Tem algum conteúdo interessante em português? [Nos ajude](contributing.md) a trazer mais recursos!
 
-## Conteúdos
-- [Engenharia de Software](https://github.com/gabiduarte/awesome-techleads#engenharia-de-software)
-- [Arquitetura e Design de Sistemas Complexos](https://github.com/gabiduarte/awesome-techleads#arquitetura-e-design-de-sistemas-complexos)
-- [Produto](https://github.com/gabiduarte/awesome-techleads#produto)
-- [Feedbacks e Soft Skills](https://github.com/gabiduarte/awesome-techleads#feedbacks-e-soft-skills)
-- [Produtividade](https://github.com/gabiduarte/awesome-techleads#produtividade)
-- [Gestão](https://github.com/gabiduarte/awesome-techleads#gest%C3%A3o)
-- [Saúde do time e Processos](https://github.com/gabiduarte/awesome-techleads#sa%C3%BAde-do-time-e-processos)
-- [Recrutamento e Onboarding](https://github.com/gabiduarte/awesome-techleads#recrutamento-e-onboarding)
-
-## Tipos de conteúdo
-- Blogs
+## Categorias
 - Comunidades
 - Conferências
-- Cursos
+- Podcasts
+- Newsletter
+- Blogs
+- Sites
 - Decks
 - Livros
-- Newsletter
-- Podcasts
-- Posts
-- Repositório
-- Sites
+- Cursos
 
 ## Tópicos
+
 ### Engenharia de Software
 | Categoria 	| Idioma    	| Título    	| Autor(a/es) |
 |-----------	|-----------	|-----------	|------------|
@@ -39,7 +28,6 @@ Tem algum conteúdo interessante em português? [Nos ajude](contributing.md) a t
 | Conferência | 🇺🇸 | [Lead Dev Conference](https://theleaddeveloper.com/)|  -
 | Comunidades | 🇺🇸 	| [Lead Dev Slack Community](https://lead-dev-slack.herokuapp.com/) | -
 | Livro | 🇧🇷🇺🇸 	| [Código Limpo: Habilidades Práticas do Agile Software](https://www.amazon.com.br/C%C3%B3digo-limpo-Robert-C-Martin/dp/8576082675) | Robert C. Martin
-| Livro | 🇧🇷🇺🇸 | [TDD - Desenvolvimento Guiado Por Testes](https://www.amazon.com.br/TDD-Desenvolvimento-Guiado-por-Testes/dp/857780724X)| Kent Beck
 
 
 ### Arquitetura e Design de Sistemas Complexos
@@ -48,12 +36,12 @@ Tem algum conteúdo interessante em português? [Nos ajude](contributing.md) a t
 | Livro | 🇺🇸 	| [Building Evolutionary Architecture](https://www.amazon.com.br/Building-Evolutionary-Architectures-Support-Constant-ebook/dp/B075RR1XVG) | Neal Ford, Rebecca Parsons, Pat Kua
 | Livro |  🇧🇷🇺🇸	| [Entrega Contínua: Como Entregar Software de Forma Rápida e Confiável](https://www.amazon.com.br/Entrega-Cont%C3%ADnua-Entregar-Software-Confi%C3%A1vel-ebook/dp/B016LFWKG4/) | Jez Humble, David Farley
 | Livro | 🇺🇸 	| [Domain-driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com.br/Domain-Driven-Design-Tackling-Complexity-Software-ebook/dp/B00794TAUG) | Eric Evans
-| Livro | 🇧🇷🇺🇸 	| [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.com.br/Clean-Architecture-Craftsmans-Software-Structure-ebook/dp/B075LRM681/)	| Robert C. Martin
+| Livro | 🇺🇸 	| [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.com.br/Clean-Architecture-Craftsmans-Software-Structure-ebook/dp/B075LRM681/)	| Robert C. Martin
 | Livro | 🇺🇸 	| [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)| Nicole Forsgren PhD, Jez Humble, Gene Kim
 | Podcast | 🇺🇸 | [Decisive Moments for Engineering Leaders](https://podcasts.apple.com/us/podcast/decisive-moments-for-engineering-leaders/id1489429177)| Plato
 | Blog | 🇺🇸 | [Signal vs. Noise](https://m.signalvnoise.com/)| Basecamp
 | Blog | 🇧🇷 | [O modelo C4 de documentação para Arquitetura de Software](https://www.infoq.com/br/articles/C4-architecture-model/)| Simon Brown
-| Livro | 🇺🇸 | [Release It!: Design and Deploy Production-Ready Software](https://www.amazon.com.br/Release-Design-Production-Ready-Software-English-ebook/dp/B079YWMY2V)| Michael T. Nygard
+| Livro | 🇺🇸 | [Test Driven Development: By Example](https://www.amazon.com.br/Test-Driven-Development-Kent-Beck/dp/0321146530)| Kent Beck
 
 
 ### Produto
@@ -72,7 +60,6 @@ Tem algum conteúdo interessante em português? [Nos ajude](contributing.md) a t
 | Podcast | 🇺🇸 | [Soft Skills Engineering](https://softskills.audio/) | Dave Smith, Jamison Dance
 | Livro | 🇺🇸 | [Dare to Lead: Brave Work. Tough Conversations. Whole Hearts.](https://www.amazon.com.br/Dare-Lead-Brave-Conversations-Hearts/dp/0399592520/) | Brené Brown
 | Newsletter | 🇺🇸 | [3-2-1 Newsletter](https://jamesclear.com/3-2-1) | James Clear
-| Livro | 🇧🇷🇺🇸 |[A arte de dar feedback](https://www.amazon.com.br/arte-feedback-Harvard-Business-Review/dp/854310730X) | Harvard Business Review
 
 
 ### Produtividade
@@ -81,8 +68,8 @@ Tem algum conteúdo interessante em português? [Nos ajude](contributing.md) a t
 | Livro | 🇧🇷🇺🇸 | [Os 7 Hábitos das Pessoas Altamente Eficazes - Edição Customizada: Lições poderosas para a transformação pessoal](https://www.amazon.com.br/H%C3%A1bitos-das-Pessoas-Altamente-Eficazes/dp/8576840626) | Stephen R. Covey
 | Livro | 🇧🇷🇺🇸 | [Trabalho Focado: Como ter Sucesso em um Mundo Distraído](https://www.amazon.com.br/Deep-Work-Focused-Success-Distracted-ebook/dp/B00X7D8X8S/) | Cal Newport
 | Podcast | 🇺🇸 | [How to Make Meetings Less Terrible](https://freakonomics.com/podcast/meetings/)| Stephen J. Dubner
-| Livro | 🇧🇷🇺🇸 | [Faça tempo: 4 passos para definir suas prioridades e não adiar mais nada](https://www.amazon.com.br/Faça-tempo-passos-definir-prioridades-ebook/dp/B07PH1H1SC) | Jake Knapp, John Zeratsky
-| Deck | 🇺🇸 | [Effective Engineers Gist](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f) | Rondy Souza
+| Livro | 🇧🇷🇺🇸 | [A arte de fazer acontecer - O método GTD - Getting Things Done](https://www.amazon.com.br/arte-fazer-acontecer-Estrat%C3%A9gias-produtividade-ebook/dp/B015YGOACS/ref=asc_df_B015YGOACS/?tag=googleshopp00-20&linkCode=df0&hvadid=379721120149&hvpos=&hvnetw=g&hvrand=5843950167076610276&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001763&hvtargid=pla-481945650889&psc=1)| David Allen
+
 
 
 ### Gestão
@@ -98,18 +85,18 @@ Tem algum conteúdo interessante em português? [Nos ajude](contributing.md) a t
 | Newsletter 	| 🇺🇸 | [Software Lead Weekly](https://softwareleadweekly.com/) | Oren Ellenbogen
 | Comunidade 	| 🇺🇸 | [Software Lead Weekly Slack Community](https://swlw.slack.com/) | Oren Ellenbogen
 | Comunidade 	| 🇺🇸 | [Engineering Managers Slack Community](https://engmanagers.github.io/) | -
-| Post | 🇧🇷 | [Liderança técnica: quando, como e por quê?](https://medium.com/@danielaarajo/parte-1-lideran%C3%A7a-t%C3%A9cnica-quando-como-e-por-qu%C3%AA-430ea0bc5cba) | Daniela Araújo
-| Comunidade | 🇺🇸 | [Rands Leadership Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack/) | Michael Lopp |
-| Podcast | 🇺🇸 | [Programming Leadership](https://marcusblankenship.com/category/podcast/) | Marcus Blankenship |
+
 
 
 ### Saúde do time e processos
 | Categoria 	| Idioma    	| Título    	| Observação |
 |-----------	|-----------	|-----------	|------------|
 | Site 	| 🇺🇸 	| [Fun retrospectives: Activities and ideas for making agile retrospectives more engaging](https://www.funretrospectives.com)| Paulo Caroli, Tainã Caetano
-| Livro 	| 🇺🇸 	| [Agile Estimating and Planning](https://www.amazon.com.br/Estimating-Planning-Robert-Martin-English-ebook/dp/B004X1D3TC/)| Mike Cohn
+| Livro 	| 🇺🇸 	| [Agile Estimating and Planning](https://www.amazon.com.br/Estimating-Planning-Robert-Martin-English-ebook/dp/B004X1D3TC/ref=asc_df_B004X1D3TC/)| Mike Cohn
 | Deck 	| 🇺🇸 	| [Managing for Happiness: Games, Tools, and Practices to Motivate Any Team](https://www.amazon.com.br/Managing-Happiness-Practices-Motivate-English-ebook/dp/B01GQWKHXK)| Jurgen Appelo
+| Livro 	| 🇺🇸 	| [Agile Estimating and Planning](https://www.amazon.com.br/Estimating-Planning-Robert-Martin-English-ebook/dp/B004X1D3TC/ref=asc_df_B004X1D3TC/)| Mike Cohn
 | Blog 	| 🇧🇷🇺🇸 | [Dev Huddle: An Agile Ceremony for Devs](https://dev.to/gabiduarte/dev-huddle-an-agile-ceremony-for-devs-4g34)| Gabrielle Duarte
+
 
 
 ### Recrutamento e onboarding
@@ -117,7 +104,7 @@ Tem algum conteúdo interessante em português? [Nos ajude](contributing.md) a t
 |-----------	|-----------	|-----------	|------------|
 | Curso | 🇧🇷 | [Curso de Recrutamento e Seleção para Alta Performance 2.0](https://gupy.academy/p/recrutamento-e-selecao-para-alta-performance)	| Gupy Academy
 | Deck | 🇺🇸 | [Effective Team Onboarding](https://www.slideshare.net/mscandella/effective-team-onboarding)| María Gomez, ThoughtWorks
-| Repositório | 🇺🇸 | [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)| Yangshun Tay
+
 
 
 ## Como Contribuir
